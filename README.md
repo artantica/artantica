@@ -19,7 +19,7 @@ IT and Artificial Intelligence graduate from [WUST](https://pwr.edu.pl/en/).
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensor" width="40" height="40"/>
   </a> 
   <a href="https://pytorch.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   </a> 
   <a href="https://pandas.pydata.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
